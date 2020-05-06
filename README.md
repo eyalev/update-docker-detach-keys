@@ -1,7 +1,7 @@
 
 # update-docker-detach-keys
 
-Adds `"detachKeys": "ctrl-e,e"` to `~/.docker/config.json` so that `Ctrl+P` could be used easily inside a Docker container.
+Adds `"detachKeys": "ctrl-e,e"` to `~/.docker/config.json` so that `Ctrl+P` could be easily used inside a Docker container.
 
 Also see: https://stackoverflow.com/questions/20828657/docker-change-ctrlp-to-something-else
 
