@@ -1,7 +1,7 @@
 
 # update-docker-detach-keys
 
-Adds `"detachKeys": "ctrl-e,e"` to `~/.docker/config.json` so that `Ctrl+P` could be easily used inside a Docker container.
+Adds `"detachKeys": "ctrl-e,e"` to `~/.docker/config.json` so that `Ctrl+P` would work properly inside a Docker container.
 
 ## Run with [pipx](https://github.com/pipxproject/pipx)
 
