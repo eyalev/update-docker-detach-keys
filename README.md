@@ -9,6 +9,6 @@ Adds `"detachKeys": "ctrl-e,e"` to `~/.docker/config.json` so that `Ctrl+P` coul
 $ pipx run update-docker-detach-keys
 ```
 
-## Also see
+## Related
 
 - https://stackoverflow.com/questions/20828657/docker-change-ctrlp-to-something-else
