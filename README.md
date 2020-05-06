@@ -5,8 +5,6 @@ Adds `"detachKeys": "ctrl-e,e"` to `~/.docker/config.json` so that `Ctrl+P` coul
 
 Also see: https://stackoverflow.com/questions/20828657/docker-change-ctrlp-to-something-else
 
-[URL](httpp)
-
 ## Run with [pipx](https://github.com/pipxproject/pipx)
 
 ```
